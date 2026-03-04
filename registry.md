@@ -1,1 +1,1 @@
-Patient_001 | 45 | HYPERTENSIVE
+Patient_001 | 45 | Stage 1 Hypertension
